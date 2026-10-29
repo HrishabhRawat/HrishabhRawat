@@ -1,5 +1,3 @@
-# Hi I am Hrishabh Rawat 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HrishabhRawat/HrishabhRawat/main/banner.png" alt="Hey! I am Hrishabh Rawat banner" width="100%" />
 </p>
