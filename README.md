@@ -16,7 +16,7 @@
 - 🧠 **Daily Challenge:** Solving DSA problems and improving problem-solving skills.
 - 🚀 **Mission:** Turn creative ideas into useful, real-world software.
 - ⚡ **Facts** *DSA is frustrating… until the algorithm finally clicks!* 🧩
-- 📫 **Contact:** [hrishabhrawat100@gmail.com]
+- 📫 **Contact:** [hrishabhrawat100@gmail.com](mailto:hrishabhrawat100@gmail.com)
 
 ---
 
